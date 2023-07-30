@@ -1,0 +1,10 @@
+The opening screen, with a team named IviesS entered
+The team edit screen, with set wins selected and input l. Throws an error, but the program (through the machinations of JFX handles it and continues running)
+set wins, input 5
+set losses input 3, add win, player number 15, Thomas Warenski, new player box checked
+set plate appearances, 3
+set at bats, 3, add home run
+player number 88, name jeff, new player and pitcher boxes checked
+drop down list shown
+set number of innings, 30
+output.txt
